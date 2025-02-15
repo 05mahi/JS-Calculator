@@ -1,0 +1,2 @@
+The Calculator App is a simple yet functional web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is designed to be intuitive, featuring a number pad and operation buttons similar to a physical calculator.
+![Screenshot 2025-02-15 163333](https://github.com/user-attachments/assets/eb00fbe6-829f-46e7-9bf5-e8e39e64577f)
